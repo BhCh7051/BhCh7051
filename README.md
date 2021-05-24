@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Kaustubh 👋</h1>
+<h1 align="center">Hi there, I'm Bharat 👋</h1>
 
-- 🔭 Currently working on Python projects and REST API building.
+- 🔭 Currently working on React projects and Firebase Backend.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
-- 💻 Codes in Python, Java, C/C++ and Flutter.
+- 💻 Codes in Python, C/C++ and JavaScript.
+- 🤹 Skills in TensorFlow, Keras, ReactJS, Data Structures and algorithm.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
 ###### Do check out my repositories and feel free to reach out if you'd like to collaborate.
