@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Kaustubh 👋</h1>
 
-<!--
-**BhCh7051/BhCh7051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on Python projects and REST API building.
+- 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
+- 💻 Codes in Python, Java, C/C++ and Flutter.
+- 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
-Here are some ideas to get you started:
+###### Do check out my repositories and feel free to reach out if you'd like to collaborate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me online on:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bharat-chandwani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="BharatChandwani" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:bharatchandwani1@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="BharatChandwani" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
