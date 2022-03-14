@@ -30,7 +30,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/theninza">
+<a href="https://github.com/bhch7051">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhch7051&show_icons=true&theme=algolia&count_private=true"/>
 </a>
 </p>
