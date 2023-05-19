@@ -3,10 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=BhCh7051&style=flat-square)
 
 ## 👨🏻‍💻 &nbsp;About Me
-- 🔭 Currently working on React projects and Firebase Backend.
+- 🔭 Currently working as a Trainee at IndiaMART.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
-- 💻 Codes in Python, C/C++ and JavaScript.
-- 🤹 Skills in TensorFlow, Keras, ReactJS, Data Structures and algorithm.
+- 💻 Codes in C/C++, JavaScrip, Python and PHP.
+- 🤹 Skills in TensorFlow, Pytorch, Keras, ReactJS, Data Structures and Algorithm.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
 ## 🛠 &nbsp;Tech Stack
