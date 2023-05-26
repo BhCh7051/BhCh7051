@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 Currently working as a Intern at IndiaMART.
 - 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
-- 💻 Codes in C/C++, JavaScrip, Python and PHP.
+- 💻 Codes in C/C++, JavaScript, Python and PHP.
 - 🤹 Skills in TensorFlow, Pytorch, Keras, ReactJS, Data Structures and Algorithm.
 - 💬 Always on the lookout for new projects to work on and new people to collaborate with.
 
