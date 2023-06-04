@@ -26,6 +26,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF)&nbsp;
 ![Flask](https://img.shields.io/badge/flask-05122A?style=flat&color=000000&logo=Flask&logoColor=FFFFFF)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&color=000000&logo=Express&logoColor=FFFFFF)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=000000&logo=PHP&logoColor=FFFFFF)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&color=000000&logo=Postgresql&logoColor=FFFFFF)&nbsp;
+![pytorch](https://img.shields.io/badge/-pytorch-05122A?style=flat&color=000000&logo=pytorch&logoColor=FFFFFF)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
