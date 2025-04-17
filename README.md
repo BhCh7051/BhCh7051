@@ -3,11 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=BhCh7051&style=flat-square)
 
 ## 👨🏻‍💻 &nbsp;About Me
-- 🔭 Currently working as a Intern at IndiaMART.
-- 📚 Majoring in Computer Science at Indian Institute of Information Technology, Gwalior.
-- 💻 Codes in C/C++, JavaScript, Python and PHP.
-- 🤹 Skills in TensorFlow, Pytorch, Keras, ReactJS, Data Structures and Algorithm.
-- 💬 Always on the lookout for new projects to work on and new people to collaborate with.
+- 🔭 Currently working as an SDE at IndiaMART.
+- 📚 Majored in Computer Science at the Indian Institute of Information Technology, Gwalior.
+- 💻 Codes in Golang, C/C++, JavaScript, Python, and PHP.
+- 🤹 Skills in TensorFlow, Pytorch, Keras, ReactJS, Data Structures, and Algorithms.
 
 ## 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)&nbsp;
